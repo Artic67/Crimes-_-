@@ -13,10 +13,10 @@
 from json import loads,dumps
 dct = {}
 with open("Crimes.csv", "r") as file:
-    keys = file.readline().split(",")
+    keys = file.readline().strip("\n").split(",")
     print(keys)
     for line in file:
-        lst = line.split(",")
+        lst = line.strip("\n").split(",")
         print(lst)
         if lst[5] not in dct:
             dct[lst[5]] = []
