@@ -8,10 +8,10 @@ ID,City,Year,Month,Day,Criminal,Type,Arrest,Description
 7,Everland,4323,10,13,Kookler,theft,True,car theft
 8,Everland,4324,12,23,Pookler,corruption,False,got rubber boots
 9,Neverland,4333,1,3,Batler,corruption,True,got a blade holder
-10,D city,4330,Ztztz-7,undermining,True,explotion in a bus for anti-corruption
+10,D city,4330,1,3,Ztztz-7,undermining,True,explotion in a bus for anti-corruption
 11,Trier,4335,1,2,-,killing,False,killed 1 robot
 12,D city,4334,2,4,Batler,corruption,True,got a plate gun
-13,Neverland,4335,2,2,-,killing,killed police robot
+13,Neverland,4335,2,2,-,killing,True,killed police robot
 14,Neverland,4335,1,5,-,killing,False,Mysterios murder by blades, holded to frisbee plate. A plate was found sticking out of the wall. Apparently, it was fired from some kind of gun.
 15,D city,4335,3,2,Niko,undermining,True,Explosion in main robots building.. That was scary. Who is this Niko?
 16,Trier,4333,2,10,-,corruption,False,got two pairs of socks
