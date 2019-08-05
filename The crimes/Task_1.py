@@ -20,6 +20,11 @@ with open("Crimes.csv", "r") as file:
         print(lst)
         if lst[5] not in dct:
             dct[lst[5]] = []
+        for i in range(9):
+            try:
+                lst[i] = int(lst[i])
+            except ValueError:
+                pass
         dct[lst[5]].append({
             keys[0]: lst[0],
             keys[1]: lst[1],
