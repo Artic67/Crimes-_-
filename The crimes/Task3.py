@@ -8,4 +8,4 @@ for name in dct:
         for i in range(len(types_list)):
             if crime["Type"] == types_list[i]:
                 if name != "-":
-                    print(name)
+                    print(types_list[i], ":", name)
