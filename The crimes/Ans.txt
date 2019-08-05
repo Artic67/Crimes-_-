@@ -1,3 +1,0 @@
-Batler;5;D city;4332;1;13;corruption;True;got a bribe: a frisbee plate
-Batler;9;Neverland;4333;1;3;corruption;True;got a blade holder
-Batler;12;D city;4334;2;4;corruption;True;got a plate gun
