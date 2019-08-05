@@ -10,7 +10,7 @@ for name in dct:
         if name1 == name:
             for key in crime:
                 lst.append(crime[key])
-            with open("Ans.txt", "a") as file:
+            with open("Ans.csv", "a") as file:
                 for el in range(len(lst)):
                     lst[el] = str(lst[el])
                 file.write(name1 + ";" + ";".join(lst) + "\n")
